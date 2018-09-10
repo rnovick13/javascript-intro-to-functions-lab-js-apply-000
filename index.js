@@ -21,3 +21,7 @@ function sayHiToGrandma(whisper) {
 function sayHiToGrandma(shout) {
   return "YES INDEED!";
 }
+
+function sayHiToGrandma("I love you, Grandma") {
+  return "I love you, too.";
+}
