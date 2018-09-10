@@ -21,6 +21,3 @@ function sayHiToGrandma(whisper) {
 function sayHiToGrandma(shout) {
   return "YES INDEED!";
 }
-
-function sayHiToGrandma
-}
