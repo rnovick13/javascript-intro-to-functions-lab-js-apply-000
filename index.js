@@ -22,6 +22,5 @@ function sayHiToGrandma(shout) {
   return "YES INDEED!";
 }
 
-function sayHiToGrandma(string("I love you, Grandma")) {
-  return "I love you, too.";
+function sayHiToGrandma
 }
