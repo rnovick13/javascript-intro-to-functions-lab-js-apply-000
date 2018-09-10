@@ -17,7 +17,9 @@ function logWhisper(string) {
 function () => {
   if (whisper) {
     return "I can't hear you";
-  } else {
-    
+  } else if(shout) {
+    return "YES INDEED!";
+  } else if("I love you, Grandma") {
+    return "I love you, too.";
   }
 }
