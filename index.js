@@ -22,3 +22,6 @@ function sayHiToGrandma(shout) {
   return "YES INDEED!";
 }
 
+function sayHiToGrandma() {
+  
+}
