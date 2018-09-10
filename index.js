@@ -18,7 +18,7 @@ function sayHiToGrandma() {
   if (whisper) {
     return "I can't hear you";
   } else if(shout) {
-    console.log("YES INDEED!");
+    return "YES INDEED!";
   } else if("I love you, Grandma") {
     return "I love you, too.";
   }
