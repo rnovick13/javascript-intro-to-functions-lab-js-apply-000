@@ -15,5 +15,9 @@ function logWhisper(string) {
 }
 
 function () => {
-  if (string === lowercase)
+  if (whisper) {
+    return "I can't hear you";
+  } else {
+    
+  }
 }
